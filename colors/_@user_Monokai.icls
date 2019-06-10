@@ -1,10 +1,15 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2019-05-24T10:20:22</property>
+    <property name="description" />
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-09T19:34:19</property>
+    <property name="modified">2019-06-10T14:58:02</property>
     <property name="originalScheme">Monokai</property>
+    <property name="vendorMail" />
+    <property name="vendorName">MyMonokai</property>
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
