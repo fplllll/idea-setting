@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">Python</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-10T14:58:02</property>
+    <property name="modified">2019-06-27T17:26:01</property>
     <property name="originalScheme">Monokai</property>
     <property name="vendorMail" />
     <property name="vendorName">MyMonokai</property>
@@ -268,7 +268,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="6ae96a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -420,7 +419,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="a9a388" />
       </value>
     </option>
     <option name="DEFAULT_BRACES" baseAttributes="" />
