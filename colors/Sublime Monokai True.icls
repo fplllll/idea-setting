@@ -560,8 +560,7 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="bbff82" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="6cff11" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -582,14 +581,14 @@
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="f8ff0d" />
+        <option name="FOREGROUND" value="3cff8e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f92672" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="2ccbf9" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
