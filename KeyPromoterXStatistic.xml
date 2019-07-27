@@ -78,7 +78,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'test'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
@@ -95,6 +95,14 @@
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Diagram...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Grid">
+        <Item>
+          <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
+          <ShortCut>'Ctrl+引号'</ShortCut>
+          <Description>Show Grid</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IMM-Flask'">
@@ -127,6 +135,14 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>Images.Editor.ZoomIn</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
