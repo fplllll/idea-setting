@@ -81,6 +81,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Python Console">
+        <Item>
+          <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
+          <ShortCut>'Alt+C'</ShortCut>
+          <Description>Python Console</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Quick Definition">
         <Item>
           <IdeaActionID>QuickImplementations</IdeaActionID>
