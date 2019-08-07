@@ -177,6 +177,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'motor_nondriven_ver'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'motor_nondriven_ver'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
