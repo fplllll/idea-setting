@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>87</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -161,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'gearbox_input_ver'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'gearbox_input_ver'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'main'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -183,6 +191,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'motor_driven_ver'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'motor_nondriven_hor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'motor_nondriven_hor'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'motor_nondriven_ver'">
@@ -214,7 +230,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>89</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
