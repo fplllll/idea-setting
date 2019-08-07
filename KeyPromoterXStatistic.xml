@@ -41,6 +41,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'motor_driven_hor'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'motor_driven_hor'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'motor_driven_ver'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -153,6 +161,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'motor_driven_hor'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'motor_driven_hor'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'motor_driven_ver'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -182,7 +198,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>86</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
