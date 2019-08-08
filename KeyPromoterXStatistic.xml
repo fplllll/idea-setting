@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>110</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -201,11 +201,27 @@
           <Count>68</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'compressor_nondriven_axia'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'compressor_nondriven_axia'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'compressor_nondriven_hor'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'compressor_nondriven_hor'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'compressor_nondriven_ver'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'compressor_nondriven_ver'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -262,7 +278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'motor_driven_ver'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'motor_nondriven_hor'">
@@ -409,6 +425,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'compressor_nondriven_ver'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'compressor_nondriven_ver'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'gearbox_output_hor'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -454,7 +478,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
