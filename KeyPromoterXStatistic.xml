@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>128</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
