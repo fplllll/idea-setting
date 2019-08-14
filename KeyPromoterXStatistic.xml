@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>6</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>192</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+C'</ShortCut>
           <Description>Python Console</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
