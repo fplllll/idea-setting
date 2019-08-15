@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Compressor\test\motor_nondriven_ver.py'" />
-    <option name="defaultScopeName" value="File '...\Compressor\test\motor_nondriven_ver.py'" />
-    <option name="SEARCH_SCOPE" value="File '...\Compressor\test\motor_nondriven_ver.py'" />
+    <option name="customScope" value="Directory '...\Blender'" />
+    <option name="defaultScopeName" value="Directory '...\Blender'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\Blender'" />
   </component>
 </application>
