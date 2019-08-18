@@ -33,6 +33,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Value">
         <Item>
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
@@ -142,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>237</Count>
+          <Count>240</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
