@@ -158,7 +158,7 @@
           <IdeaActionID>FileChooser.GotoDesktop</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Desktop Directory</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -270,7 +270,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'IMM-Flask'">
