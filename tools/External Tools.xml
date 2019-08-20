@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\fpl11\Envs\sci\Scripts\python.exe" />
       <option name="PARAMETERS" value="-m black $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Envs/sci/Scripts" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/fpl11/Envs/sci/Scripts" />
     </exec>
   </tool>
 </toolSet>
