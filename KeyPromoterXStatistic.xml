@@ -206,7 +206,15 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find...">
+        <Item>
+          <IdeaActionID>Find</IdeaActionID>
+          <ShortCut>'Ctrl+F' or 'Alt+F3'</ShortCut>
+          <Description>Find...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
