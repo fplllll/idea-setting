@@ -1,6 +1,11 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="ChangesView.GroupBy.Directory" />
