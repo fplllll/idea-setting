@@ -21,7 +21,7 @@
   </action>
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="TodoViewGroupByShowPackages" />
-  <action id="Tool_External Tools_autopep8">
+  <action id="Tool_External Tools_black">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
 </keymap>
