@@ -1,6 +1,8 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
@@ -17,5 +19,11 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
+  <component name="PythonFoldingSettings">
+    <option name="COLLAPSE_LONG_COLLECTIONS" value="true" />
+  </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>
 </application>
