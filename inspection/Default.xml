@@ -206,7 +206,6 @@
   <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LoopStatementThatDoesntLoopJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MakoArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NodeModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
