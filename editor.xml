@@ -9,4 +9,28 @@
     <option name="LINE_SPACING" value="1.1" />
     <option name="SECONDARY_FONT_FAMILY" value="YaHei Consolas Hybrid" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="CSS" value="false" />
+        <entry key="HTML" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="JavaScript" value="false" />
+        <entry key="Python" value="true" />
+        <entry key="SQL" value="true" />
+        <entry key="TypeScript" value="false" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="autoCloseTag" value="false" />
+    <option name="automaticallyInsertClosingTag" value="false" />
+    <option name="automaticallyStartAttribute" value="false" />
+    <option name="insertQuotesForAttributeValue" value="false" />
+    <option name="selectWholeCssIdentifierOnDoubleClick" value="false" />
+    <option name="syncTagEditing" value="false" />
+  </component>
 </application>
