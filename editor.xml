@@ -5,7 +5,6 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="SECONDARY_FONT_FAMILY" value="YaHei Consolas Hybrid" />
   </component>
@@ -24,6 +23,16 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="Angular2Html" />
+        <option value="JavaScript" />
+        <option value="TypeScript" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="XmlEditorOptions">
     <option name="autoCloseTag" value="false" />
